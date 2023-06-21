@@ -13,13 +13,13 @@ Object localization problem solved using Pre-Activation Resnet architecture. Ima
 Clone the project
 
 ```bash
-  git clone https://github.com/MyNameIsArko/Object-localization
+  git clone https://github.com/MyNameIsArko/object-localization
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd object-localization
 ```
 
 Install dependencies
